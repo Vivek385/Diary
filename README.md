@@ -1,7 +1,3 @@
-Of course. Here is a comprehensive `README.md` file for the Intelligent Journaling Co-Pilot application we've built. You can save this directly into your project folder.
-
------
-
 # Intelligent Journaling Co-Pilot 🧠
 
 An AI-powered, local journaling application built with Streamlit and Google Gemini. This tool goes beyond a simple digital notebook, acting as an interactive partner for your self-reflection and personal growth journey.
@@ -44,8 +40,8 @@ Follow these steps to get the application running on your local machine.
 Clone this project to your local machine:
 
 ```bash
-git clone <your-repository-url>
-cd <your-repository-directory>
+git clone https://github.com/Vivek385/Diary.git
+cd Diary
 ```
 
 ### 3\. Create a Virtual Environment
